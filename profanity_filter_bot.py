@@ -65,4 +65,4 @@ async def removeword(ctx, *, word):
         await ctx.send(f"`{word}` is not in the filter list.")
 
 # Run the bot
-bot.run('MTM5NzI1MzIwNzMzMTMxMTg1OA.GauHf1.y2OFNLYrel44j0j0SPjHl6zfl1Iu36ysEMfYcw')
+bot.run('MTM5NzI1MzIwNzMzMTMxMTg1OA.Gt_-Vs.aech1x23AucJcYaBe3V-GdNwFCJj1ZUdnJsnwU')
